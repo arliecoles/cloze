@@ -1,0 +1,6 @@
+{{c1::Nauta}} {{c2::in}} {{c3::patriā}} {{c4::poenās}} {{c5::rēginae}} {{c6::timet}}.
+{{c1::Poēta}} {{c2::pecūniam}} {{c3::fāmamque}} {{c4::nōn}} {{c5::optat}}.
+{{c1::Pecūniam}} {{c2::poētārum}} {{c3::habēmus}}.
+{{c1::Poētīsne}} {{c2::rēgīna}} {{c3::pecūniam}} {{c4::dabit}}?
+{{c1::Rēgīnam}} {{c2::īnsulae}} {{c3::cum}} {{c4::tūrbā}} {{c5::nautārum}} {{c6::vidēre}} {{c7::optābāmus}}.
+{{c1::Fēminās}} {{c2::in}} {{c3::vidēbātis}}, {{c4::sed}} {{c5::dē}} {{c6::fōrmā}} {{c7::nōn}} {{c8::clāmābātis}}. {{c9::Poenās}} {{c10::dabitis}}.
